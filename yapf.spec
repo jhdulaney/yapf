@@ -31,5 +31,5 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(-,root,root)
 
 %changelog
-* Fri April 04 2015 John Dulaney <jdulaney@fedoraproject.org> - 0.1
+* Fri Apr 03 2015 John Dulaney <jdulaney@fedoraproject.org> - 0.1
 - Initial Spec File creation
