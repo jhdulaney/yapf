@@ -29,3 +29,7 @@ rm -rf $RPM_BUILD_ROOT
 
 %files -f INSTALLED_FILES
 %defattr(-,root,root)
+
+%changelog
+* Fri April 04 2015 John Dulaney <jdulaney@fedoraproject.org> - 0.1
+- Initial Spec File creation
